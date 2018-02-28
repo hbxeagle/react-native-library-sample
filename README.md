@@ -1,6 +1,8 @@
 
 # react-native-library-sample
 
+>A react-native library sample for test. Also see the react-native project [react-native-master](https://github.com/hbxeagle/react-native-master).
+
 ## Getting started
 
 `$ npm install react-native-library-sample --save`
